@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KYC/static/css/main.97672ebd.css",
+    "main.js": "/KYC/static/js/main.8a35c591.js",
+    "static/js/453.5e829ee8.chunk.js": "/KYC/static/js/453.5e829ee8.chunk.js",
+    "index.html": "/KYC/index.html",
+    "main.97672ebd.css.map": "/KYC/static/css/main.97672ebd.css.map",
+    "main.8a35c591.js.map": "/KYC/static/js/main.8a35c591.js.map",
+    "453.5e829ee8.chunk.js.map": "/KYC/static/js/453.5e829ee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97672ebd.css",
+    "static/js/main.8a35c591.js"
+  ]
+}
