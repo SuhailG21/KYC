@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/KYC/static/css/main.4f076377.css",
-    "main.js": "/KYC/static/js/main.db9ae742.js",
+    "main.js": "/KYC/static/js/main.0dd6245b.js",
     "static/js/453.5e829ee8.chunk.js": "/KYC/static/js/453.5e829ee8.chunk.js",
     "index.html": "/KYC/index.html",
     "main.4f076377.css.map": "/KYC/static/css/main.4f076377.css.map",
-    "main.db9ae742.js.map": "/KYC/static/js/main.db9ae742.js.map",
+    "main.0dd6245b.js.map": "/KYC/static/js/main.0dd6245b.js.map",
     "453.5e829ee8.chunk.js.map": "/KYC/static/js/453.5e829ee8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f076377.css",
-    "static/js/main.db9ae742.js"
+    "static/js/main.0dd6245b.js"
   ]
 }
